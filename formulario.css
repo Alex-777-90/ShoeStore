@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&family=Roboto+Serif:opsz,wght@8..144,100&display=swap');
+
+
+.conteudo{
+  display: flex;
+  justify-content: space-around;
+  font-family: 'Roboto Serif', serif;
+  margin-top: 5%;
+
+}
+
+.texto{
+  margin-top: 3%;
+  text-align: justify;
+}
+
+.large_input{
+  width: 100%;
+  margin-bottom: 3%;
+  padding-bottom: 1%;
+}
+
+#titulo_form{
+
+  padding-bottom: 5%;
+
+}
+
+button {
+  background-color: #C2185B;
+  border: none;
+  color: white;
+  text-align: center;
+  padding: 0.7%;
+}
+
+textarea{
+  width: 100%;
+  
+} 
+
+footer{
+  margin-top: -6%;
+}
